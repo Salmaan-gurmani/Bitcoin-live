@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Dashboard /> should render Dashboard 1`] = `ShallowWrapper {}`;
+
+exports[`<Dashboard /> should render Dashboard with error 1`] = `ShallowWrapper {}`;
